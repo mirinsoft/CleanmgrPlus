@@ -1,4 +1,4 @@
-<h1 align="center"> Cleanmgr+ </h1>
+<h1 align="center"> Очистка+ </h1>
 
 <p align="center">
 <a href="https://github.com/builtbybel/CleanmgrPlus" target="_blank">
@@ -20,38 +20,40 @@
 
 </p>
 
-Microsoft will be soon removing the Disk Clean-up Tool (Cleanmgr.exe) from Windows 10 PCs. 
-It is a Windows system tool which lets you delete the unwanted files cluttered in your PC thereby freeing some space on your disk drive. Disk Cleanup isn’t going away immediately but is on its way out the door. Microsoft says it will keep the utility around for compatibility reasons.
+Microsoft скоро удалит инструмент очистки диска (Cleanmgr.exe) с компьютеров с Windows 10.
+Это системный инструмент Windows, который позволяет удалять ненужные файлы, захламленные на вашем компьютере, тем самым освобождая место на жестком диске.
+Очистка диска не исчезнет немедленно, но уже скоро исчезнет. Microsoft заявляет, что сохранит эту утилиту из соображений совместимости.
 
-Whatever version of Windows you’re using, Disk Cleanup has always worked the same way. 
-Right-click a drive, select “Properties,” and then click the “Disk Cleanup” button to launch it. It still works the same way on Windows 10 today. You can also just launch it from the Start menu or run the cleanmgr.exe program.
+Какую бы версию Windows вы ни использовали, «Очистка диска» всегда работала одинаково. Щелкните диск правой кнопкой мыши, выберите «Свойства» и нажмите кнопку «Очистка диска», чтобы запустить его.
+Сегодня он работает так же в Windows 10. Вы также можете просто запустить его из меню «Пуск» или запустить программу cleanmgr.exe.
 
-When Microsoft says Disk Cleanup is “deprecated” starting with the October 2018 update, that means it’s been replaced by a new tool. Windows 10 version 1803 new build came up with the Storage Sense functionality earlier this year and it works more or less same as the Disk Cleanup Tool. 
+Когда Microsoft заявляет, что очистка диска «устарела», начиная с обновления за октябрь 2018 года, это означает, что она была заменена новым инструментом.
+В новой сборке Windows 10 версии 1803 в начале этого года появилась функция Storage Sense, и она работает более или менее так же, как инструмент очистки диска.
 
-The downside of Storage Sense is the massive UI. This size is why I decided to make Cleanmgr+ to circumvent that massive UI of Storage Sense but still provide a utility that is true to the original.
+Недостатком Storage Sense является массивный пользовательский интерфейс. Именно из-за такого размера я решил сделать Cleanmgr+, 
+чтобы обойти этот массивный пользовательский интерфейс Storage Sense, но при этом предоставить утилиту, соответствующую оригиналу.
 
-Cleanmgr+ comes with better and modern UI when compared to the current Disk Cleanup and with an additional feature set (hence the +), such as the feeding with Custom scripts, i.e., to clean a Browser cache, etc.
+Cleanmgr+ имеет улучшенный и современный пользовательский интерфейс по сравнению с текущей версией Disk Cleanup, 
+а также дополнительный набор функций (отсюда +), таких как загрузка пользовательских сценариев, т. е. очистка кэша браузера и т. д.
 
-<a href="https://www.builtbybel.com/images/jdownloads/screenshots/cleanmgr+_screen.png"><img src="https://www.builtbybel.com/images/jdownloads/screenshots/cleanmgr+_screen.png" align="right" style="max-width: 350px"></a>
+Существует множество утилит Disk Cleaner, но целью этой программы было создание инструмента, который использует собственные ресурсы Windows, гарантируя выполнение только действий, совместимых с системой.
 
-There are many Disk Cleaner utilities out there, but the goal with this one was to create a tool that uses Windows own resources ensuring that only system-compliant actions are performed.
+#### Более подробную информацию о Cleanmgr+ можно найти на  [официальном сайте](https://www.builtbybel.com/ms-apps/cleanmgrplus)
 
-#### More Information about Cleanmgr+ can be found on the [official website](https://www.builtbybel.com/ms-apps/cleanmgrplus)
+#### Cleanmgr+ имеет закрытый исходный код, но вы можете сотрудничать и вносить свой вклад, например, создавать собственные файлы сценариев, локализацию, сообщать о проблемах или вести документацию.
 
-#### Cleanmgr+ is closed source, but you can collaborate and contribute i.e., custom script files, localizations, report issues or maintain a documentation.
-
-## Download 
+## Скачать 
 * https://www.builtbybel.com/cleanmgrplus
 
-## Other Resources
-#### [Community scripts](https://github.com/builtbybel/CleanmgrPlus/blob/master/scripts/scripts.md)
+## Другие источники
+#### [Скрипты сообщества](https://github.com/builtbybel/CleanmgrPlus/blob/master/scripts/scripts.md)
 
-#### [Localizations](https://github.com/builtbybel/CleanmgrPlus/blob/master/locales/locale.md)
+#### [Локализации](https://github.com/builtbybel/CleanmgrPlus/blob/master/locales/locale.md)
 
-#### [Themes](https://github.com/builtbybel/CleanmgrPlus/blob/master/bin/packages/ui.ini)
+#### [Темы](https://github.com/builtbybel/CleanmgrPlus/blob/master/bin/packages/ui.ini)
 
-## Suggesting features / providing feedback
-You can also reach out to me on [Twitter](https://twitter.com/builtbybel)
+## Предложение функций / предоставление отзывов
+Вы также можете связаться со мной в [Telegram](https://t.me/Arturych1993)
 
-with ❤︎ © [builtbybel](https://www.builtbybel.com "Good apps are as little apps as possible").
+с ❤︎ @Arturych1993
 </p>
